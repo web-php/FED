@@ -1,0 +1,44 @@
+[14.05 20-04:47:49 ]  	 Начало работы 
+[14.05 20-04:47:49 ]  	 disable keys 
+[14.05 20-04:47:50 ] doc_id : su 	 120213 
+[14.05 20-04:47:52 ] doc_id : su 	 Last iteration - count : 120213 
+[14.05 20-04:47:52 ] doc_id : su 	 beginTransaction 
+[14.05 20-04:47:52 ] doc_id : su 	 SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens 
+[14.05 20-04:48:36 ]  	 Начало работы 
+[14.05 20-04:48:36 ]  	 disable keys 
+[14.05 20-04:48:37 ] doc_id : su 	 120213 
+[14.05 20-04:48:38 ] doc_id : su 	 Last iteration - count : 120213 
+[14.05 20-04:48:38 ] doc_id : su 	 beginTransaction 
+[14.05 20-04:49:53 ] doc_id : su 	 enable keys 
+[14.05 20-04:57:53 ]  	 Начало работы 
+[14.05 20-04:57:53 ]  	 disable keys 
+[14.05 20-04:58:01 ] doc_id : ru 	 4923862 
+[14.05 20-04:58:08 ] doc_id : ru 	 iteration : 500000 
+[14.05 20-04:58:08 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:03:22 ] doc_id : ru 	 iteration : 1000001 
+[14.05 20-05:03:22 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:08:43 ] doc_id : ru 	 iteration : 1500002 
+[14.05 20-05:08:43 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:14:04 ] doc_id : ru 	 iteration : 2000003 
+[14.05 20-05:14:04 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:19:21 ] doc_id : ru 	 iteration : 2500004 
+[14.05 20-05:19:21 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:24:35 ] doc_id : ru 	 iteration : 3000005 
+[14.05 20-05:24:35 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:29:46 ] doc_id : ru 	 iteration : 3500006 
+[14.05 20-05:29:46 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:35:08 ] doc_id : ru 	 iteration : 4000007 
+[14.05 20-05:35:08 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:40:29 ] doc_id : ru 	 iteration : 4500008 
+[14.05 20-05:40:29 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:45:43 ] doc_id : ru 	 Last iteration - count : 423853 
+[14.05 20-05:45:43 ] doc_id : ru 	 beginTransaction 
+[14.05 20-05:50:09 ] doc_id : su 	 120213 
+[14.05 20-05:50:12 ] doc_id : su 	 Last iteration - count : 120213 
+[14.05 20-05:50:12 ] doc_id : su 	 beginTransaction 
+[14.05 20-05:51:45 ] doc_id : rf 	 821997 
+[14.05 20-05:51:52 ] doc_id : rf 	 iteration : 500000 
+[14.05 20-05:51:52 ] doc_id : rf 	 beginTransaction 
+[14.05 20-05:56:57 ] doc_id : rf 	 Last iteration - count : 321996 
+[14.05 20-05:56:57 ] doc_id : rf 	 beginTransaction 
+[14.05 20-06:00:19 ] doc_id : rf 	 enable keys 
